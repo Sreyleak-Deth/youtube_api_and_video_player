@@ -15,7 +15,7 @@ A new Flutter project.
 You need to create one field to store API_KEY:  
 
 > lib/utilities/constants/constant.dart
-class Constants{
+> class Constants{
   static const String API_KEY = 'Your Api Key';
 }
 
