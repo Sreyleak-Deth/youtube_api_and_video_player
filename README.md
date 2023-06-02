@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started 
-### When you get started, create "Play YouTube Videos, Access YouTube API, and Get Videos List from Playlist". You need to get all of the points first.
+##### When you get started, create "Play YouTube Videos, Access YouTube API, and Get Videos List from Playlist". You need to get all of the points first.
 1. YouTube player: https://pub.dev/packages/youtube_player_flutter
 2. Http: https://pub.dev/packages/http
 3. Cached network image: https://pub.dev/packages/cached_network_image
@@ -12,8 +12,9 @@ A new Flutter project.
 
 
 ## Noted:
-You need to create one field to store API_KEY: ##### lib/utilities/constants/constant.dart
+You need to create one field to store API_KEY:  
 
+lib/utilities/constants/constant.dart
 class Constants{
   static const String API_KEY = 'Your Api Key';
 }
