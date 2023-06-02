@@ -14,12 +14,12 @@ A new Flutter project.
 ## Noted:
 You need to create one field to store API_KEY:  
 
-<ins>lib/utilities/constants/constant.dart</ins>
-
-> class Constants{
+#### <ins>lib/utilities/constants/constant.dart</ins>
+```
+class Constants{
   static const String API_KEY = 'Your Api Key';
 }
-
+```
 | | |
 | --- | --- | 
 | ![photo_2023-06-02_12-00-42](https://github.com/leak17/youtube_api_and_video_player/assets/115885247/3b299f5e-9a0c-4da3-89d4-1576681c65ad)| ![photo_2023-06-02_12-00-54](https://github.com/leak17/youtube_api_and_video_player/assets/115885247/99b160be-7162-4c13-95cd-5ffd533806fe)|
